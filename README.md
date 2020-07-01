@@ -8,3 +8,10 @@
 - You have to manually split to remove time
 
 Have fun!
+
+# Install
+- Download drop_alive.asl
+- Open LiveSplit
+- Go to Layout Editor
+- Add an Scriptable Auto Splitter (under Control Panel)
+- Double click it and set the path to the drop_alive.asl file
