@@ -13,5 +13,5 @@ Have fun!
 - Download drop_alive.asl
 - Open LiveSplit
 - Go to Layout Editor
-- Add an Scriptable Auto Splitter (under Control Panel)
+- Add an Scriptable Auto Splitter (in Control/Scriptable Auto Splitter)
 - Double click it and set the path to the drop_alive.asl file
