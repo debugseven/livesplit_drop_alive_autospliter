@@ -5,7 +5,6 @@
 - A split happens once a new level is loaded
 - (You can reset easy, because after you go from main menu to timeattack screen the timer resets)
 - Finish the run and the last split is, if current scene switches to main menu
-- You have to manually split to remove time
 
 Have fun!
 
